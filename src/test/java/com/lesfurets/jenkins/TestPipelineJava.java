@@ -1,6 +1,7 @@
 /*
  * Copyright (C) by Courtanet, All Rights Reserved.
  */
+//test pipeline
 package com.lesfurets.jenkins;
 
 import static com.lesfurets.jenkins.unit.MethodSignature.method;
